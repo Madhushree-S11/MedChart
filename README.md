@@ -12,3 +12,7 @@ bloodPressureSystolic - Systolic pressure
 bloodPressureDiastolic - Diastolic pressure 
 
 temperature - Body temperature in Celcius 
+
+Already a sample input report has been uploaded and tested.
+
+The website: https://1fvlqd-my-site-c1w6sbl1-sohandadamode43.wix-vibe-site.com/dashboard
